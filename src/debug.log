@@ -1,0 +1,142 @@
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  34ms
+Shutdown : done
+2017-11-18 00:42:11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-11-18 00:42:11 FalCoin version v1.1.0.0-release (2017-04-26 03:24:44 +0530)
+2017-11-18 00:42:11 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2017-11-18 00:42:11 Default data directory /root/.FalCoin
+2017-11-18 00:42:11 Using data directory 
+2017-11-18 00:42:11 Using at most 125 connections (1024 file descriptors available)
+2017-11-18 00:42:11 Using 4 threads for script verification
+2017-11-18 00:42:11 init message: Verifying wallet...
+2017-11-18 00:42:11 dbenv.open LogDir=database ErrorFile=db.log
+2017-11-18 00:42:11 Bound to [::]:25682
+2017-11-18 00:42:11 Bound to 0.0.0.0:25682
+2017-11-18 00:42:11 init message: Loading block index...
+2017-11-18 00:42:11 Opening LevelDB in blocks/index
+2017-11-18 00:42:11 Opened LevelDB successfully
+2017-11-18 00:42:11 Opening LevelDB in chainstate
+2017-11-18 00:42:11 Opened LevelDB successfully
+2017-11-18 00:42:11 LoadBlockIndexDB(): last block file = 0
+2017-11-18 00:42:11 LoadBlockIndexDB(): transaction index disabled
+2017-11-18 00:42:11 Initializing databases...
+2017-11-18 00:42:11 0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88
+2017-11-18 00:42:11 0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88
+2017-11-18 00:42:11 e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb
+2017-11-18 00:42:11 CBlock(hash=0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88, input=010000000000000000000000000000000000000000000000000000000000000000000000fbf3e1c19f7d2290fcc659074244c818d8d4c2074cdfe24d192ff64025b04be1022ddb52f0ff0f1eb4347501, PoW=0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb, nTime=1390095618, nBits=1e0ffff0, nNonce=24458420, vtx=1)
+2017-11-18 00:42:11   CTransaction(hash=e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01040a46616c436c6173736963)
+    CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
+  vMerkleTree: e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb 
+2017-11-18 00:42:11 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2017-11-18 00:42:11 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2017-11-18 00:42:11 Shutdown : In progress...
+2017-11-18 00:42:11 StopNode()
+2017-11-18 00:42:11 Flushed 0 addresses to peers.dat  33ms
+2017-11-18 00:42:11 Committing 0 changed transactions to coin database...
+2017-11-18 00:42:11 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  41ms
+Shutdown : done
+2017-11-18 00:43:10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-11-18 00:43:10 FalCoin version v1.1.0.0-release (2017-04-26 03:24:44 +0530)
+2017-11-18 00:43:10 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2017-11-18 00:43:10 Default data directory /root/.FalCoin
+2017-11-18 00:43:10 Using data directory 
+2017-11-18 00:43:10 Using at most 125 connections (1024 file descriptors available)
+2017-11-18 00:43:10 Using 4 threads for script verification
+2017-11-18 00:43:10 init message: Verifying wallet...
+2017-11-18 00:43:10 dbenv.open LogDir=database ErrorFile=db.log
+2017-11-18 00:43:10 Bound to [::]:25682
+2017-11-18 00:43:10 Bound to 0.0.0.0:25682
+2017-11-18 00:43:10 init message: Loading block index...
+2017-11-18 00:43:10 Opening LevelDB in blocks/index
+2017-11-18 00:43:10 Opened LevelDB successfully
+2017-11-18 00:43:10 Opening LevelDB in chainstate
+2017-11-18 00:43:10 Opened LevelDB successfully
+2017-11-18 00:43:10 LoadBlockIndexDB(): last block file = 0
+2017-11-18 00:43:10 LoadBlockIndexDB(): transaction index disabled
+2017-11-18 00:43:10 Initializing databases...
+2017-11-18 00:43:10 0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88
+2017-11-18 00:43:10 0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88
+2017-11-18 00:43:10 e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb
+2017-11-18 00:43:10 CBlock(hash=0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88, input=010000000000000000000000000000000000000000000000000000000000000000000000fbf3e1c19f7d2290fcc659074244c818d8d4c2074cdfe24d192ff64025b04be1022ddb52f0ff0f1eb4347501, PoW=0000015533751eadb9b26508234333d2d14901d2e99c8872d32fd689942a9b88, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb, nTime=1390095618, nBits=1e0ffff0, nNonce=24458420, vtx=1)
+2017-11-18 00:43:10   CTransaction(hash=e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01040a46616c436c6173736963)
+    CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
+  vMerkleTree: e14bb02540f62f194de2df4c07c2d4d818c844420759c6fc90227d9fc1e1f3fb 
+2017-11-18 00:43:10 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2017-11-18 00:43:10 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2017-11-18 00:43:10 Shutdown : In progress...
+2017-11-18 00:43:10 StopNode()
+2017-11-18 00:43:10 Flushed 0 addresses to peers.dat  33ms
+2017-11-18 00:43:10 Committing 0 changed transactions to coin database...
+2017-11-18 00:43:10 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  38ms
+Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  36ms
+Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  33ms
+Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  39ms
+Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  36ms
+Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  29ms
+Shutdown : done
