@@ -1193,13 +1193,12 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 
 static const char *strMainNetDNSSeed[][2] = {
-    {"default", "158.69.106.68"}, //First official node
-    {"DNS2", "158.69.106.66"}, //second official node
+    {"default", "162.255.117.4"}, //First official node
     {NULL, NULL},
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"default", "158.69.106.66"}, //First official node
+    {"default", "162.255.117.4"}, //First official node
     {NULL, NULL},
 };
 
